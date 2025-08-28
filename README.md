@@ -31,5 +31,5 @@
 ---
 
 ## 🌍 Onde me encontrar  
-📫 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavom-crispim/))  
+📫 [LinkedIn](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavom-crispim/)  
 📧 E-mail: gustavocrispim2@gmail.com 
